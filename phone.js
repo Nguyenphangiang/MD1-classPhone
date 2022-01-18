@@ -37,10 +37,12 @@ let Nokia= new Phone("Ok đi luôn",[],[])
 Iphone.onOff()
 Iphone.checkStatus()
 Iphone.textMessage();
+Iphone.sendMessage()
 Iphone.showInbox();
 Iphone.showSend();
 Nokia.onOff();
 Nokia.checkStatus();
 Nokia.textMessage();
+Nokia.sendMessage();
 Nokia.showInbox();
 Nokia.showSend();
